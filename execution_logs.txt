@@ -1,0 +1,1 @@
+Welcome to nginx! If you see this page, nginx is successfully installed and working.
